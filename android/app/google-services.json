@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923807886041",
+    "project_id": "pallevar-2a9f1",
+    "storage_bucket": "pallevar-2a9f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923807886041:android:48143624afaf1ede93ecc8",
+        "android_client_info": {
+          "package_name": "com.informagios.pallevar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923807886041-ehb4edpc8iaeavgan66a03spucbb0rqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLgpKP3y9V5Y79lD5OU5pg1srNQ493jjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923807886041-ehb4edpc8iaeavgan66a03spucbb0rqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
